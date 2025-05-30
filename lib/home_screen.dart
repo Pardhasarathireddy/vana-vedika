@@ -62,7 +62,7 @@ class _HomePageState extends State<HomePage> {
                             style: TextStyle(color: Colors.white),
                           ),
                           TextSpan(
-                            text: "Prakriti!",
+                            text: "Vana Vedhika!",
                             style: TextStyle(color: Color(0xFFF39C12)),
                           ),
                         ],
@@ -349,7 +349,7 @@ class _HomePageState extends State<HomePage> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        "About Prakriti",
+                        "About Vana Vedhika",
                         style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,
